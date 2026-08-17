@@ -1,16 +1,25 @@
-## Hi there 👋
+# ¡Hola! Soy ManuDevMX 👋
 
-<!--
-**ManuDevMX/ManuDevMX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador Web enfocado en crear sitios modernos, responsivos y soluciones digitales para negocios locales y proyectos reales.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### 📂 Proyectos Destacados
+
+* 🌐 **[Pisos Epóxicos Toluca](https://manudevmx.github.io/pisos-epoxicos-toluca/)**: Sitio web responsivo con galería de trabajos, catálogo de servicios y contacto directo.
+
+---
+
+### 📬 ¿Tienes un proyecto en mente? ¡Hablemos!
+
+[![WhatsApp](https://img.shields.io/badge/Enviar_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5215577149235)
