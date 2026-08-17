@@ -32,6 +32,10 @@ Desarrollador Web enfocado en crear sitios modernos, responsivos y soluciones di
 ### 📹 Demo en funcionamiento:
 
 
-https://github.com/user-attachments/assets/828304dc-a730-440a-9d20-fc1d9cccedbd
+
+
+https://github.com/user-attachments/assets/a27fd694-0adf-49ce-8f9d-1a0827b28ea6
+
+
 
 
