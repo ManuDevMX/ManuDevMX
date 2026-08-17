@@ -23,3 +23,15 @@ Desarrollador Web enfocado en crear sitios modernos, responsivos y soluciones di
 ### 📬 ¿Tienes un proyecto en mente? ¡Hablemos!
 
 [![WhatsApp](https://img.shields.io/badge/Enviar_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5215577149235)
+## 🚀 Funcionalidades del Backend (Localhost)
+
+* **Autenticación:** Inicio de sesión seguro integrado con la API de Google (OAuth 2.0).
+* **Módulo de Comentarios:** Envío de opiniones en tiempo real procesadas con PHP y almacenadas en MySQL.
+* **Administración de Base de Datos:** Gestión y moderación de registros desde HeidiSQL / Laragon.
+
+### 📹 Demo en funcionamiento:
+
+
+https://github.com/user-attachments/assets/828304dc-a730-440a-9d20-fc1d9cccedbd
+
+
