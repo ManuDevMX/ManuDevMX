@@ -38,4 +38,21 @@ https://github.com/user-attachments/assets/a27fd694-0adf-49ce-8f9d-1a0827b28ea6
 
 
 
+### 🛡️ Auditoría de Seguridad & Pentesting Local
+
+Como parte del desarrollo seguro, realicé pruebas de auditoría local utilizando **Kali Linux** y la herramienta **Nikto** sobre el servidor en Laragon:
+
+* **Escaneo de vulnerabilidades:** Identificación de cabeceras de seguridad faltantes (`Content-Security-Policy`, `X-Content-Type-Options`) y exposición de versiones.
+* **Hardening & Sanitización:** Corrección de reglas en `.htaccess`, ocultamiento de firmas de servidor y validación de entradas contra ataques **XSS** en la sección de comentarios.
+
+#### 🎥 Demo de la auditoría con Nikto:
+
+
+
+https://github.com/user-attachments/assets/f2ace0a8-fc6f-440f-b141-78ece3933179
+
+
+
+
+
 
