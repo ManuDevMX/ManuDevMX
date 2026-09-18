@@ -19,6 +19,12 @@ Desarrollador Web enfocado en crear sitios modernos, responsivos y soluciones di
 * 🌐 **[Pisos Epóxicos Toluca](https://manudevmx.github.io/pisos-epoxicos-toluca/)**: Sitio web responsivo con galería de trabajos, catálogo de servicios y contacto directo.
 
 ---
+---
+
+## 🎓 Certificaciones y Cursos
+
+* 🌐 *Curso de Hostinger 2026: El Hosting Ideal Para tu Página Web* - Udemy (Sep 2026)  
+  [![Ver Certificado](https://img.shields.io/badge/Ver_Certificado-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://ude.my/UC-d978a625-09ba-41d0-8af6-df6fb4799d70)
 
 ### 📬 ¿Tienes un proyecto en mente? ¡Hablemos!
 
