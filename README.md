@@ -19,7 +19,6 @@ Desarrollador Web enfocado en crear sitios modernos, responsivos y soluciones di
 * 🌐 **[Pisos Epóxicos Toluca](https://manudevmx.github.io/pisos-epoxicos-toluca/)**: Sitio web responsivo con galería de trabajos, catálogo de servicios y contacto directo.
 
 ---
----
 
 ## 🎓 Certificaciones y Cursos
 
