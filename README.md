@@ -26,6 +26,9 @@ Desarrollador Web enfocado en crear sitios modernos, responsivos y soluciones di
 * 🌐 *Curso de Hostinger 2026: El Hosting Ideal Para tu Página Web* - Udemy (Sep 2026)  
   [![Ver Certificado](https://img.shields.io/badge/Ver_Certificado-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://ude.my/UC-d978a625-09ba-41d0-8af6-df6fb4799d70)
 
+
+
+## Te entregamos un sitio web profesional de alto rendimiento con panel dinámico para tus comentarios/pedidos, base de datos protegida contra robos de información y auditaría de ciberseguridad para garantizar que tus datos y los de tus clientes estén 100% seguros.
 ### 📬 ¿Tienes un proyecto en mente? ¡Hablemos!
 
 [![WhatsApp](https://img.shields.io/badge/Enviar_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5215577149235)
